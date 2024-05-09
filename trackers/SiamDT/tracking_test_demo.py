@@ -1,6 +1,6 @@
 import init_paths
 import libs.data as data
-from trackers import *
+from trackers.siamdt_tracking import *
 
 # conda activate SiamDT
 # python -m visdom.server -port=5123
